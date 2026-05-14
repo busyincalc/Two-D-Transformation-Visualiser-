@@ -1,2 +1,3 @@
-# Two-D-Transformation-Visualiser-
-Interactive visualization of matrix transformations and their applications in AI using Python.
+# Two-D-Transformation-Visualiser
+# Interactive Linear Alegbra Visualiser for AI
+
