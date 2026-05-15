@@ -143,4 +143,6 @@ Screenshots
 
 
 
+<img width="419" height="373" alt="image" src="https://github.com/user-attachments/assets/365d3ab5-b9e9-4513-94ee-92136eb72f3b" />
+
 
