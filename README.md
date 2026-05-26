@@ -136,6 +136,7 @@ interactive-linear-algebra-visualizer/
 ├── linear_algebra_visualizer.ipynb
 ├── README.md
 ├── images/
+
 ```
 
 ---
