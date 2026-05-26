@@ -139,6 +139,9 @@ interactive-linear-algebra-visualizer/
 
 ```
 
+#IMPORTANT
+Apparently the animations are not visible here becuase i made it on google colab so now i will have to remove the animations and make it static
+
 ---
 Screenshots
 
